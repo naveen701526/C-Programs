@@ -1,0 +1,1 @@
+Collection of different kinds of logic written using c++
